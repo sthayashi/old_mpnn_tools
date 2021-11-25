@@ -1,4 +1,4 @@
-This repo is old code that was used to generate the dataset for a graph neural network project. Uses data published in Nature by Stuke, A., Kunkel, C., Golze, D. et al. [found at https://rdcu.be/cB3B2]. Due to old packages which only exist in python2, the code in this repo is meant to be version agnostic (e.g. no type hints).
+This repo is old code that was used to generate the dataset for a graph neural network project. Uses data published in Nature by [Stuke, A., Kunkel, C., Golze, D. et al.](https://rdcu.be/cB3B2). Due to old packages which only exist in python2, the code in this repo is meant to be version agnostic (e.g. no type hints).
 
 The project's purpose was for predicting charge transfer integrals on organic molecules.
 
